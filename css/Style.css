@@ -1,0 +1,59 @@
+body {
+        background-color: white !important;
+        font-family: arial;
+        color: black;
+}
+
+h1, h5 {
+        color: #800000;
+        font-style: italic;
+}
+
+a.box {
+        font-size: larger;
+        font-weight: bold;
+        text-decoration: none;
+        color: #800000;
+        font-style: italic;
+}
+
+a.box:hover {
+        color: black;
+}
+
+a.chi_siamo {
+        font-size: small;
+        font-weight: bold;
+        text-decoration: none;
+        color: #800000;
+        font-style: italic;
+}
+
+a.chi_siamo:hover {
+        color: black;
+}
+
+a.instagram {
+        font-size: medium;
+        font-weight: bold;
+        text-decoration: none;
+        color: #800000;
+        font-style: italic;
+}
+
+a.instagram:hover {
+        color: black;
+}
+
+footer {
+        position: relative;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        padding: 20px;
+        background-color: grey;
+        text-align: left;
+        font-weight: bold;
+        font-size: small;
+        color: white;
+}
